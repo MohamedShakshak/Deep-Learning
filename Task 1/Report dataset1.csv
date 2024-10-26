@@ -1,0 +1,5 @@
+,Train Loss,Validation Loss,Test Loss,Train Accuracy,Validation ACC,Test ACC,Train Precision,Validation Precision,Test Precision,Train Recall,Validation Recall,Test Recall
+CNN_model,0.0,0.16,0.15,1.0,0.96,0.96,1.0,0.96,0.96,1.0,0.95,0.96
+VGG19,0.88,0.91,0.89,0.77,0.76,0.77,0.94,0.93,0.94,0.53,0.51,0.52
+ResNet50,3.36,3.36,3.36,0.08,0.08,0.08,0.0,0.0,0.0,0.0,0.0,0.0
+InceptionV3,0.41,0.47,0.46,0.88,0.86,0.86,0.94,0.92,0.93,0.81,0.78,0.79
